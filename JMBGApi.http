@@ -1,0 +1,6 @@
+@JMBGApi_HostAddress = http://localhost:5026
+
+GET {{JMBGApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
